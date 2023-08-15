@@ -1,4 +1,4 @@
-# Power BI Super Store Sales Data Analytics
+# PowerBI Super Store Sales Data Analytics
 
 ## Introduction
 
