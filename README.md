@@ -37,7 +37,7 @@ The Power BI Super Store Sales Data Analytics project is a comprehensive data vi
 
 
 ## Output:
-<img src="HR_data_analytics.png">
+<img src="Super_store_analytics.png">
 
 
 ## Conclusion:
